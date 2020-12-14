@@ -10,6 +10,8 @@ requests = "*"
 argparse = "*"
 pylint = "*"
 selenium = "*"
+flask = "*"
+scrapy = "*"
 
 [requires]
 python_version = "3.8"
